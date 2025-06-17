@@ -173,11 +173,11 @@ pytest tests/
 ---
 ## 📊 Screenshots
 
-![Add Category](screenshots/add_category.png)
-![Add Expense](screenshots/add_expense.png)
-![View Expenses](screenshots/view_expenses.png)
-![Delete Expenses](screenshots/delete_expense.png)
-![Analytics](screenshots/analytics.png)
+![Add Category](Screenshots/add_category.png)
+![Add Expense](Screenshots/add_expense.png)
+![View Expenses](Screenshots/view_expenses.png)
+![Delete Expenses](Screenshots/delete_expense.png)
+![Analytics](Screenshots/analytics.png)
 
 ---
 
