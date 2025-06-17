@@ -208,7 +208,7 @@ pytest tests/
 
 **Suraj Chaudhary**
 
-(github link)
+([github link](https://github.com/surajchaudhary89/))
 
 ---
 
